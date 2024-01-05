@@ -4,3 +4,7 @@
 
 - Google Cloud Platform
   - bigquery template
+  - firewall template
+  - subnetworks template
+  - vpc-connector template
+  - vpc template
