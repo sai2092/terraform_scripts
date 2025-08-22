@@ -1,4 +1,4 @@
-# This Repository containing various terraform scripts.
+# This Repository containing various terraform scripts templates.
 
 ## Directory Layout
 
@@ -9,4 +9,6 @@
   - vpc-connector template
   - vpc template
   - cloudarmor template
-  - clod nat template
+  - cloud nat template
+  - glbc template
+  - redis-memstore template
