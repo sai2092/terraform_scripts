@@ -8,3 +8,5 @@
   - subnetworks template
   - vpc-connector template
   - vpc template
+  - cloudarmor template
+  - clod nat template
