@@ -3,6 +3,7 @@
 ## Directory Layout
 
 - Google Cloud Platform
+  - elk stack template
   - bigquery template
   - firewall template
   - subnetworks template
@@ -12,3 +13,5 @@
   - cloud nat template
   - glbc template
   - redis-memstore template
+  - cloudrun template
+  - clopud-storage template
